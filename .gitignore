@@ -2,3 +2,4 @@
 /server/.env
 /client/node_modules/
 /client/build/
+/client/readme.md
