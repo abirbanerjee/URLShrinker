@@ -18,4 +18,4 @@ npm start
 
 ##Live preview
 
-A preview version of the full web app has been deployed on Heroku. You can check it out [here](https://shrnkurls.herokuapp.com/).
+A preview version of the full web app has been deployed on Heroku. You can check it out [here](https://shrnkurls.onrender.com).
